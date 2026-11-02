@@ -1,4 +1,12 @@
-"""Docs."""
+"""A processor that transforms polynomials into numerical representations and then computes possible factorions, WIP.
+More information is avaliable in the blog post
+
+author: Gustavo Sales
+date: 2026-11-02
+"""
+
+__version__ = "1.0.0"
+__author__ = "Gustavo Sales"
 
 
 from collections import defaultdict
